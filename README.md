@@ -1,5 +1,6 @@
+<p align="center"><b>Hello there!👋🏻 I'm Abinesh</b></p>
 # 🧑🏻‍💻 About Me:
-Hello there! 👋🏻<br>I'm Abinesh, a passionate developer specializing in Full Stack Development.<br><br>• 📖 I’m currently learning **ReactJS**.<br><br>• 🔭 I’m currently working on Blood Donation Website.<br><br>• 💭 Ask me about **HTML, CSS, JavaScript, and ReactJS.**<br><br>• 📫 How to reach me: abinesh5521@gmail.com
+I am passionate developer specializing in Full Stack Development.<br><br>• 📖 I’m currently learning **ReactJS**.<br><br>• 🔭 I’m currently working on Blood Donation Website.<br><br>• 💭 Ask me about **HTML, CSS, JavaScript, and ReactJS.**<br><br>• 📫 How to reach me: abinesh5521@gmail.com
 
 
 ## 🌐 Socials:
